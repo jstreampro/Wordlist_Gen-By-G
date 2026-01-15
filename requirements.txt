@@ -1,0 +1,32 @@
+# Wordlist_Gen By G - Requirements
+# 
+# This application uses only Python standard library modules.
+# No pip packages are required for basic functionality!
+#
+# Python Version: 3.7+
+#
+# Standard library modules used (included with Python):
+# - tkinter (GUI framework)
+# - os
+# - random
+# - string
+# - datetime
+# - pathlib
+
+# ============================================
+# OPTIONAL: For building standalone executable
+# ============================================
+# Uncomment the line below if you want to build an .exe/.app
+# pyinstaller>=5.0.0
+
+# ============================================
+# SYSTEM DEPENDENCIES (not pip installable)
+# ============================================
+# 
+# Linux users may need to install tkinter separately:
+#   Ubuntu/Debian: sudo apt-get install python3-tk
+#   Fedora: sudo dnf install python3-tkinter
+#   Arch: sudo pacman -S tk
+#
+# Windows: tkinter is included with Python installer
+# macOS: tkinter is included with Python installer
