@@ -232,7 +232,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **G**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@jstreampro)
 
 ## 🙏 Acknowledgments
 
