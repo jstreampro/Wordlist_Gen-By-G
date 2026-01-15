@@ -203,7 +203,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ### Development Setup
 ```bash
-git clone https://github.com/yourusername/wordlist-gen-by-g.git
+git clone https://github.com/jstreampro/wordlist-gen-by-g.git
 cd wordlist-gen-by-g
 # Make your changes
 # Test thoroughly
