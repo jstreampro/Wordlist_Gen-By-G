@@ -82,7 +82,7 @@ A powerful, GUI-based wordlist generator designed for authorized penetration tes
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/wordlist-gen-by-g.git
+git clone https://github.com/jstreampro/wordlist-gen-by-g.git
 cd wordlist-gen-by-g
 ```
 
